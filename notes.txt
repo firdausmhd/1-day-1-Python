@@ -1,0 +1,8 @@
+note:
+
+#day-1
+1. Python uses variables to store data.
+2. No need to declare types — Python is dynamic.
+3. Variables store values
+4. Python does not require type declaration
+5. Use print() to output text
